@@ -1,0 +1,29 @@
+15:10:31.080 Running build in Washington, D.C., USA (East) – iad1
+15:10:31.081 Build machine configuration: 2 cores, 8 GB
+15:10:31.124 Cloning github.com/pravesh-dev/Dashboard-Assignment (Branch: main, Commit: eb02e42)
+15:10:31.377 Cloning completed: 253.000ms
+15:10:31.699 Restored build cache from previous deployment (HuKQYrM6frkmCfjWV8r1hNJv7BhK)
+15:10:31.942 Running "vercel build"
+15:10:32.319 Vercel CLI 48.1.6
+15:10:32.850 Installing dependencies...
+15:10:33.730 
+15:10:33.730 up to date in 651ms
+15:10:33.731 
+15:10:33.731 42 packages are looking for funding
+15:10:33.731   run `npm fund` for details
+15:10:34.271 [36mvite v7.1.7 [32mbuilding for production...[36m[39m
+15:10:34.338 transforming...
+15:10:36.302 [32m✓[39m 104 modules transformed.
+15:10:36.528 rendering chunks...
+15:10:36.536 computing gzip size...
+15:10:36.548 [2mdist/[22m[32mindex.html                 [39m[1m[2m  0.39 kB[22m[1m[22m[2m │ gzip:  0.27 kB[22m
+15:10:36.549 [2mdist/[22m[2massets/[22m[35mindex-BfR44yX0.css  [39m[1m[2m 19.10 kB[22m[1m[22m[2m │ gzip:  4.49 kB[22m
+15:10:36.549 [2mdist/[22m[2massets/[22m[36mindex-ea9SpN_T.js   [39m[1m[2m280.57 kB[22m[1m[22m[2m │ gzip: 92.02 kB[22m
+15:10:36.549 [32m✓ built in 2.24s[39m
+15:10:36.625 Build Completed in /vercel/output [4s]
+15:10:36.721 Deploying outputs...
+15:10:38.858 Deployment completed
+15:10:39.640 Creating build cache...
+15:10:44.825 Created build cache: 5.179s
+15:10:44.825 Uploading build cache [46.06 MB]
+15:10:45.609 Build cache uploaded: 785.157ms

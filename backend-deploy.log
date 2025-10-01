@@ -1,0 +1,52 @@
+2025-10-01T09:00:14.839268094Z ==> Deploying...
+2025-10-01T09:03:47.028774016Z ==> No open ports detected, continuing to scan...
+2025-10-01T09:03:47.196935046Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-10-01T09:03:50.296760004Z 
+2025-10-01T09:03:50.296801085Z > backend@1.0.0 start
+2025-10-01T09:03:50.296807885Z > node index.js
+2025-10-01T09:03:50.296810855Z 
+2025-10-01T09:03:54.096259429Z Server is running on port 10000
+2025-10-01T09:03:56.748826341Z MongoDB Connected
+2025-10-01T09:03:59.168511117Z ==> Your service is live 🎉
+2025-10-01T09:03:59.195524996Z ==> 
+2025-10-01T09:03:59.217985936Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:03:59.240561796Z ==> 
+2025-10-01T09:03:59.263093806Z ==> Available at your primary URL https://dashboard-assignment-backend-0894.onrender.com
+2025-10-01T09:03:59.286270945Z ==> 
+2025-10-01T09:03:59.309204295Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:09:01.507196652Z ==> Detected service running on port 10000
+2025-10-01T09:09:01.647562741Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-10-01T09:16:57.033956327Z ==> Deploying...
+2025-10-01T09:17:12.132190122Z ==> Running 'npm start'
+2025-10-01T09:17:13.335420959Z 
+2025-10-01T09:17:13.335439259Z > backend@1.0.0 start
+2025-10-01T09:17:13.335441709Z > node index.js
+2025-10-01T09:17:13.335443379Z 
+2025-10-01T09:17:17.931456295Z Server is running on port 10000
+2025-10-01T09:17:20.529034494Z MongoDB Connected
+2025-10-01T09:17:27.745635306Z ==> Your service is live 🎉
+2025-10-01T09:17:27.799054334Z ==> 
+2025-10-01T09:17:27.822294184Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:17:27.846514144Z ==> 
+2025-10-01T09:17:27.874797803Z ==> Available at your primary URL https://dashboard-assignment-backend-0894.onrender.com
+2025-10-01T09:17:27.898852273Z ==> 
+2025-10-01T09:17:27.924878533Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:17:55.447343777Z ==> Deploying...
+2025-10-01T09:19:51.230884383Z ==> No open ports detected, continuing to scan...
+2025-10-01T09:19:51.320601555Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2025-10-01T09:19:53.673679845Z ==> Running 'npm start'
+2025-10-01T09:19:54.783764981Z 
+2025-10-01T09:19:54.783800773Z > backend@1.0.0 start
+2025-10-01T09:19:54.783804784Z > node index.js
+2025-10-01T09:19:54.783807274Z 
+2025-10-01T09:19:59.176667999Z Server is running on port 10000
+2025-10-01T09:20:01.766914946Z MongoDB Connected
+2025-10-01T09:20:06.134980532Z ==> Your service is live 🎉
+2025-10-01T09:20:06.163135121Z ==> 
+2025-10-01T09:20:06.1866589Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:20:06.664953484Z ==> 
+2025-10-01T09:20:06.688451284Z ==> Available at your primary URL https://dashboard-assignment-backend-0894.onrender.com
+2025-10-01T09:20:06.713999964Z ==> 
+2025-10-01T09:20:06.737850563Z ==> ///////////////////////////////////////////////////////////
+2025-10-01T09:25:06.056059309Z ==> Detected service running on port 10000
+2025-10-01T09:25:06.656365987Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
