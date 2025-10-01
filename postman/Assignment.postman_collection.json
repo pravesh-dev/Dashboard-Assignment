@@ -172,7 +172,7 @@
   ],
   "event": [],
   "variable": [
-    { "key": "baseUrl", "value": "http://localhost:5000/api" }
+    { "key": "baseUrl", "value": "https://dashboard-assignment-backend-0894.onrender.com/api" }
   ]
 }
 

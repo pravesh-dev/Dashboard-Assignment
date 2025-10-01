@@ -33,9 +33,13 @@ Backend runs at `http://localhost:5000`, Frontend at `http://localhost:5173`.
 
 ## API Documentation
 
-Base URL: `http://localhost:5000/api` -- change it in frontend/src/utils/api.js if backend is running on a different port
+Current urls due to deployment:
 
-If frontend is running on a different port, change cors origin in backend/index.js
+Base URL: `https://dashboard-assignment-backend-0894.onrender.com/api` - change it in frontend/src/utils/api.js if backend is running on a different domain
+
+
+If frontend is running on a different domain, change CORS origin in `Backend/index.js`.
+Hosted Frontend: `https://dashboardassignment-phi.vercel.app/`
 
 Auth uses httpOnly cookies. Set `withCredentials: true` on the client.
 
@@ -133,7 +137,8 @@ A Postman collection is included for testing the API endpoints.
 2. File -> Import -> Upload Files.
 3. Select `postman/Assignment.postman_environment.json` (environment) and `postman/Assignment.postman_collection.json` (collection).
 4. Select the environment "Assignment Local" in the top-right environment dropdown.
-5. Start with "Signup" then "Login". Postman will store the cookie automatically; then run profile and tasks requests.
+5. If running the backend locally, edit the `baseUrl` variable in the "Assignment Local" environment to `http://localhost:5000/api` (or your local backend port).
+6. Start with "Signup" then "Login". Postman will store the cookie automatically; then run profile and tasks requests.
 
 ---
 
